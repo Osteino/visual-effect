@@ -1,0 +1,11 @@
+numpy
+Pillow
+pytorch
+matplotlib
+urllib
+os
+zipfile
+opencv-python
+moviepy
+torch
+torchvision

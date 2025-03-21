@@ -1,0 +1,21 @@
+# Python
+.qodo
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+new_env/
+build/
+dist/
+*.egg-info/
+
+# PyTorch
+*.pth
+
+# Project specific
+data/
+output_visual_effect.jpg
+input.jpg
+Citations.md
